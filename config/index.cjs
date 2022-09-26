@@ -65,9 +65,9 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '老婆0',
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: '',
+      id: 'oJpDa538C5DdSiytcPHtKT1nbqgA',
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: 'cb-2lQ0cxEHtzV1QTPCxnAsd3CLYZj-o2vAfd8bp5Vw',
+      useTemplateId: 'aLwijyUVTG_CIXYlLCOl0D_9njfIvDsKvBwyA1DzFAg',
       // 所在省份
       province: '安徽',
       // 所在城市
