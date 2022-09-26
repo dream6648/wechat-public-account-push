@@ -7,12 +7,12 @@ const USER_CONFIG = {
   // 公众号APP_ID
   // 建议不要填这里，请使用文档中github secret的方法进行保密配置，保护您的隐私安全。
   // 如果你非要填这里也行。脚本也能运行
-  APP_ID: 'wx2ff0670504981161',
+  APP_ID: 1',
 
   // 公众号APP_SECRET
   // 建议不要填这里，请使用文档中github secret的方法进行保密配置，保护您的隐私安全。
   // 如果你非要填这里也行。脚本也能运行
-  APP_SECRET: '62e5f38d80fccb90a78e3ecac1e80436',
+  APP_SECRET: '6',
 
   // 是否给文字设置多彩颜色, 和emoji不兼容
   // 如果您使用了微信测试号的模板中含有emoji表情，请填 false
@@ -60,14 +60,14 @@ const USER_CONFIG = {
   /**
    * 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔
    */
-  USERS: ['oJpDa538C5DdSiytcPHtKT1nbqgA']
+  USERS: ['']
     {
       // 想要发送的人的名字
       name: '老婆0',
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oJpDa538C5DdSiytcPHtKT1nbqgA',
+      id: '',
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: 'aLwijyUVTG_CIXYlLCOl0D_9njfIvDsKvBwyA1DzFAg',
+      useTemplateId: 'g',
       // 所在省份
       province: '安徽',
       // 所在城市
